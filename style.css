@@ -81,7 +81,7 @@
     color: #1a1a1a;
     font-weight: bold;
 }
- .header-into-block{
+ .header-info-block{
     display: flex;
     justify-content: space-between;
  }
