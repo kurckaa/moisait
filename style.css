@@ -387,5 +387,37 @@
  }
 
  @media ( max-width: 578px) {
-
+   .navigation-holder {
+      display: none;
+   }
+ .mob-btn {
+   display: inline-block;
+   text-decoration: none;
+   font-size: 60px;
+   color: #fff;
  }
+ .header-title-text {
+   font-size: 60px;
+ }
+ .join {
+   display: none;
+ }
+ .card-info-img {
+   max-width: 100%
+ }
+ .audio-holder .card-about{
+   width: 100%;
+ }
+ .audio-container {
+   padding: 0 42px 0 0;
+ }
+ .control i {
+   height: 48px;
+ }
+ .course-name {
+   font-size: 24px;
+ }
+}
+.mob-btn{
+   display: none;
+}
